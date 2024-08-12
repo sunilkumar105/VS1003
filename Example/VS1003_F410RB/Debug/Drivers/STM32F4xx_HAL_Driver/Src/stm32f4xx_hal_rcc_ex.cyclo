@@ -1,0 +1,7 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:1943:19:HAL_RCCEx_PeriphCLKConfig	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2053:6:HAL_RCCEx_GetPeriphCLKConfig	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2087:10:HAL_RCCEx_GetPeriphCLKFreq	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2790:6:HAL_RCCEx_SelectLSEMode	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3167:19:HAL_RCC_DeInit	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3357:19:HAL_RCC_OscConfig	62
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3727:6:HAL_RCC_GetOscConfig	8
